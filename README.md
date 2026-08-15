@@ -1,137 +1,134 @@
+# Hey I'm Istiak Jaman Anan👋 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=Business+Analyst;Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Open+for+Opportunities" alt="Typing SVG" />
+  <a href="https://istiakjaman.pythonanywhere.com/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/istiak-jaman-anan/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/ijanan" target="_blank">GitHub</a> •
+  <a href="mailto:istiakjamananan@gmail.com">Email</a>
 </p>
 
-<h1 align="center">Hi, I'm Istiak Jaman Anan 👋</h1>
-
 <p align="center">
-  <b>Data Analyst | Business Analyst</b>
-</p>
-
-<p align="center">
-  <a href="https://istiakjaman.pythonanywhere.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/istiak-jaman-anan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ijanan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ijanan-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:istiakjamananan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-istiakjamananan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=700&lines=Business+Analyst;Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Open+to+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ijanan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+## 👨‍💼 About Me
 
-## About Me
+Business Analyst | Data Analyst | Problem Solver
 
-I am a Computer Science and Engineering graduate from Daffodil International University with 4+ years of hands-on experience delivering data analytics, BI, and database projects for real clients.
+I'm a Computer Science and Engineering graduate from Daffodil International University with 4+ years of hands-on experience delivering data analytics, BI, and database projects for real clients. I specialize in turning raw business data into clear insights, dashboards, and decision-support systems that help teams move faster and smarter.
 
-I specialize in building Power BI dashboards with custom DAX measures, designing SQL databases, and automating reporting workflows using Excel Power Query and Python. My work spans e-commerce sales analysis, retail inventory management, supply chain reporting, and academic research.
+My work focuses on Power BI dashboard development, SQL database design, data cleaning, ETL workflows, and performance reporting. I have delivered 20+ paid projects and built dashboards that track revenue, operational performance, and business KPIs.
 
-I have delivered 20+ paid projects, built dashboards tracking millions in revenue, and helped clients make better decisions through data-driven insights. I am currently open to freelance engagements and full-time Data Analyst or Business Analyst roles in Bangladesh and remotely.
+I enjoy working at the intersection of business needs and data solutions, helping organizations improve reporting accuracy, streamline processes, and make better decisions with data.
 
----
+## 💡 What I Do
 
-## Focus Areas
+- 📊 Data Analytics & BI Solutions
+- 📈 Dashboard Development in Power BI
+- 🧮 SQL Database Design & Query Optimization
+- 🧹 Data Cleaning, ETL, and Reporting Automation
+- 💼 Business Analysis & KPI Tracking
+- 🐍 Python-based Data Processing
 
-- 📊 Data Analysis
-- 📈 Power BI Dashboards
-- 🧮 SQL Database Design
-- 🧹 Data Cleaning & ETL
-- 📉 KPI & Performance Reporting
-- 💡 Business Decision Support
+## 🛠️ Technical Arsenal
 
----
-
-## What I Do
-
-- Transform raw and complex datasets into meaningful business insights
-- Create interactive Power BI dashboards for reporting and decision-making
-- Design clean and efficient SQL databases and query solutions
-- Automate reporting and data processing using Excel and Python
-- Support organizations with business analytics and operational reporting
-
----
-
-## Core Stack
-
-### Analytics & BI
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL%20%7C%20SQLite-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Analytics & BI Tools
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🎓 Education & Professional Background
 
----
+- 🎓 B.Sc. in Computer Science & Engineering  
+  Daffodil International University (DIU)
 
-## Featured Work
+- 💼 Current focus: Business Analyst and Data Analyst
 
-- 📊 E-commerce Sales Performance Analysis
-- 📈 Telecom Churn Analysis Dashboard
-- 🧾 Business Analytics Case Studies
-- 🧠 SQL and BI Reporting Projects
-- 💻 Python Data Analysis Projects
-- 🌐 Full-stack Django Projects
+- 📊 Experience includes:
+  - Customer Operations Analyst
+  - Data Analyst & Project Consultant
+  - Freelance data and dashboard projects
 
-> I build dashboards and data solutions that turn numbers into decisions.
+- 🧠 Specializations:
+  - Power BI dashboarding
+  - SQL database design
+  - Data analysis and reporting
+  - Business insights and KPI tracking
 
----
+## 📂 My Work
 
-## Highlights
+### 🚀 Projects
 
-| Area | Details |
-|---|---|
-| Experience | 4+ years in data analytics and business reporting |
-| Projects Delivered | 20+ paid projects |
-| Specialization | Power BI, SQL, Excel, Python |
-| Career Goal | Help businesses use data for smarter decisions |
-| Availability | Open for freelance and professional opportunities |
+Explore my portfolio work and case studies here:
 
----
+- [Portfolio Website](https://istiakjaman.pythonanywhere.com/)
+- [GitHub Repositories](https://github.com/ijanan?tab=repositories)
+- [LinkedIn](https://linkedin.com/in/istiak-jaman-anan)
 
-## GitHub Stats
+### Featured project areas
+
+- E-commerce Sales Performance Analysis
+- Telecom Churn Analysis Dashboard
+- Business Analytics Case Studies
+- SQL Database & Reporting Projects
+- Python Data Analysis Projects
+- Django Web Projects
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijanan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijanan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ijanan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijanan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
----
+## 🎯 What I'm Passionate About
 
-## Open to Work
+- 📊 Data-driven decision making
+- 📈 Business growth through analytics
+- 🤖 AI and smart automation
+- 🧠 Continuous learning and problem solving
+- 🤝 Collaboration with business and technical teams
 
-I am actively looking for:
+## 💼 Available for Opportunities
 
-- Data Analyst opportunities
-- Business Analyst roles
-- BI dashboard projects
-- Reporting and analytics consulting
-- Freelance data projects
+I’m actively open to:
 
----
+- 🔍 Data Analyst roles
+- 📊 Business Analyst roles
+- 💡 BI / Dashboard projects
+- 🚀 Freelance analytics work
+- 📁 Reporting and automation consulting
 
-## Connect
+## 🤝 Let's Connect!
 
-- 🌐 Portfolio: https://istiakjaman.pythonanywhere.com/
-- 💼 LinkedIn: https://linkedin.com/in/istiak-jaman-anan
-- 🐙 GitHub: https://github.com/ijanan
-- 📧 Email: istiakjamananan@gmail.com
+I’d love to collaborate, discuss data insights, or help with your analytics needs.
 
----
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | https://linkedin.com/in/istiak-jaman-anan |
+| 🌐 Portfolio | https://istiakjaman.pythonanywhere.com/ |
+| 🐙 GitHub | https://github.com/ijanan |
+| 📧 Email | istiakjamananan@gmail.com |
 
 <p align="center">
-  <i>Turning data into insight and insight into action.</i>
+  <i>Thanks for visiting! Feel free to check out my repositories and get in touch.</i>
 </p>
