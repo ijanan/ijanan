@@ -23,11 +23,9 @@
 
 ## 👨‍💼 About Me
 
-Business Analyst | Data Analyst | Problem Solver
-
 I'm a Computer Science and Engineering graduate from Daffodil International University with 4+ years of hands-on experience delivering data analytics, BI, and database projects for real clients. I specialize in turning raw business data into clear insights, dashboards, and decision-support systems that help teams move faster and smarter.
 
-My work focuses on Power BI dashboard development, SQL database design, data cleaning, ETL workflows, and performance reporting. I have delivered 20+ paid projects and built dashboards that track revenue, operational performance, and business KPIs.
+My work focuses on Power BI dashboard development, SQL database design, data cleaning, ETL workflows, and performance reporting. I have delivered 40+ paid projects and built dashboards that track revenue, operational performance, and business KPIs.
 
 I enjoy working at the intersection of business needs and data solutions, helping organizations improve reporting accuracy, streamline processes, and make better decisions with data.
 
@@ -99,12 +97,6 @@ Explore my portfolio work and case studies here:
 - Python Data Analysis Projects
 - Django Web Projects
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijanan&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijanan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
 
 ## 🎯 What I'm Passionate About
 
