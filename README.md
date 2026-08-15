@@ -31,12 +31,12 @@ I enjoy working at the intersection of business needs and data solutions, helpin
 
 ## 💡 What I Do
 
-- 📊 Data Analytics & BI Solutions
-- 📈 Dashboard Development in Power BI
-- 🧮 SQL Database Design & Query Optimization
-- 🧹 Data Cleaning, ETL, and Reporting Automation
-- 💼 Business Analysis & KPI Tracking
-- 🐍 Python-based Data Processing
+📊 Data Analytics & BI Solutions
+📈 Dashboard Development in Power BI
+🧮 SQL Database Design & Query Optimization
+🧹 Data Cleaning, ETL, and Reporting Automation
+💼 Business Analysis & KPI Tracking
+🐍 Python-based Data Processing
 
 ## 🛠️ Technical Arsenal
 
@@ -62,17 +62,17 @@ I enjoy working at the intersection of business needs and data solutions, helpin
 
 ## 🎓 Education & Professional Background
 
-- 🎓 B.Sc. in Computer Science & Engineering  
+🎓 B.Sc. in Computer Science & Engineering  
   Daffodil International University (DIU)
 
-- 💼 Current focus: Business Analyst and Data Analyst
+💼 Current focus: Business Analyst and Data Analyst
 
-- 📊 Experience includes:
+📊 Experience includes:
   - Customer Operations Analyst
   - Data Analyst & Project Consultant
   - Freelance data and dashboard projects
 
-- 🧠 Specializations:
+🧠 Specializations:
   - Power BI dashboarding
   - SQL database design
   - Data analysis and reporting
@@ -100,21 +100,21 @@ Explore my portfolio work and case studies here:
 
 ## 🎯 What I'm Passionate About
 
-- 📊 Data-driven decision making
-- 📈 Business growth through analytics
-- 🤖 AI and smart automation
-- 🧠 Continuous learning and problem solving
-- 🤝 Collaboration with business and technical teams
+📊 Data-driven decision making
+📈 Business growth through analytics
+🤖 AI and smart automation
+🧠 Continuous learning and problem solving
+🤝 Collaboration with business and technical teams
 
 ## 💼 Available for Opportunities
 
 I’m actively open to:
 
-- 🔍 Data Analyst roles
-- 📊 Business Analyst roles
-- 💡 BI / Dashboard projects
-- 🚀 Freelance analytics work
-- 📁 Reporting and automation consulting
+🔍 Data Analyst roles
+📊 Business Analyst roles
+💡 BI / Dashboard projects
+🚀 Freelance analytics work
+📁 Reporting and automation consulting
 
 ## 🤝 Let's Connect!
 
