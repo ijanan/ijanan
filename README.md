@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=500&lines=Data+Analyst;Business+Analyst;SQL+%7C+Power+BI+%7C+Python;Open+to+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=Business+Analyst;Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Open+for+Opportunities" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm Istiak Jaman Anan 👋</h1>
+
+<p align="center">
+  <b>Data Analyst | Business Analyst</b>
+</p>
 
 <p align="center">
   <a href="https://istiakjaman.pythonanywhere.com/" target="_blank">
@@ -27,38 +31,41 @@
 
 ## About Me
 
-I am a passionate Data Analyst and Business Analyst focused on turning raw data into actionable business insights.
+I am a Computer Science and Engineering graduate from Daffodil International University with 4+ years of hands-on experience delivering data analytics, BI, and database projects for real clients.
 
-I work with:
-- Excel
-- SQL
-- Power BI
-- Python
-- Data Cleaning & ETL
-- Business Reporting
-- Dashboard Development
+I specialize in building Power BI dashboards with custom DAX measures, designing SQL databases, and automating reporting workflows using Excel Power Query and Python. My work spans e-commerce sales analysis, retail inventory management, supply chain reporting, and academic research.
 
-I enjoy solving real business problems with data-driven decisions, KPI tracking, and interactive dashboards.
+I have delivered 20+ paid projects, built dashboards tracking millions in revenue, and helped clients make better decisions through data-driven insights. I am currently open to freelance engagements and full-time Data Analyst or Business Analyst roles in Bangladesh and remotely.
+
+---
+
+## Focus Areas
+
+- 📊 Data Analysis
+- 📈 Power BI Dashboards
+- 🧮 SQL Database Design
+- 🧹 Data Cleaning & ETL
+- 📉 KPI & Performance Reporting
+- 💡 Business Decision Support
 
 ---
 
 ## What I Do
 
-- 📊 Data analysis and reporting
-- 📈 Power BI dashboard creation
-- 🧮 SQL database design and query optimization
-- 🧹 Data cleaning and transformation
-- 💡 Business insights for smarter decisions
-- 📁 Automation using Excel and Python
+- Transform raw and complex datasets into meaningful business insights
+- Create interactive Power BI dashboards for reporting and decision-making
+- Design clean and efficient SQL databases and query solutions
+- Automate reporting and data processing using Excel and Python
+- Support organizations with business analytics and operational reporting
 
 ---
 
-## Core Skills
+## Core Stack
 
-### Data Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Analytics & BI
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL%20%7C%20SQLite-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,15 +77,28 @@ I enjoy solving real business problems with data-driven decisions, KPI tracking,
 
 ---
 
-## Featured Projects
+## Featured Work
 
-- 📊 Power BI Dashboard Projects
-- 🧠 SQL Data Analysis Projects
-- 🧾 Excel Automation & Reporting Projects
-- 📈 Business Intelligence Case Studies
-- 💻 Python Data Analysis and Dashboard Work
+- 📊 E-commerce Sales Performance Analysis
+- 📈 Telecom Churn Analysis Dashboard
+- 🧾 Business Analytics Case Studies
+- 🧠 SQL and BI Reporting Projects
+- 💻 Python Data Analysis Projects
+- 🌐 Full-stack Django Projects
 
-> I build dashboards and reports that help businesses understand trends, monitor KPIs, and make better decisions.
+> I build dashboards and data solutions that turn numbers into decisions.
+
+---
+
+## Highlights
+
+| Area | Details |
+|---|---|
+| Experience | 4+ years in data analytics and business reporting |
+| Projects Delivered | 20+ paid projects |
+| Specialization | Power BI, SQL, Excel, Python |
+| Career Goal | Help businesses use data for smarter decisions |
+| Availability | Open for freelance and professional opportunities |
 
 ---
 
@@ -91,27 +111,19 @@ I enjoy solving real business problems with data-driven decisions, KPI tracking,
 
 ---
 
-## Current Focus
-
-- Business analysis
-- Data analysis
-- Dashboard development
-- BI reporting
-- Decision-support analytics
-
----
-
 ## Open to Work
 
-I am open to:
+I am actively looking for:
+
 - Data Analyst opportunities
 - Business Analyst roles
-- Freelance projects
-- Dashboard and reporting assignments
+- BI dashboard projects
+- Reporting and analytics consulting
+- Freelance data projects
 
 ---
 
-## Connect with Me
+## Connect
 
 - 🌐 Portfolio: https://istiakjaman.pythonanywhere.com/
 - 💼 LinkedIn: https://linkedin.com/in/istiak-jaman-anan
@@ -121,5 +133,5 @@ I am open to:
 ---
 
 <p align="center">
-  <i>“Turning data into insight and insight into action.”</i>
+  <i>Turning data into insight and insight into action.</i>
 </p>
