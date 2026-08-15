@@ -1,19 +1,25 @@
-# Hey I'm Istiak Jaman Anan👋 
+# Hey, I'm Istiak Jaman Anan 👋
 
 <p align="center">
-  <a href="https://istiakjaman.pythonanywhere.com/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/istiak-jaman-anan/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/ijanan" target="_blank">GitHub</a> •
-  <a href="mailto:istiakjamananan@gmail.com">Email</a>
+  <a href="https://istiakjaman.pythonanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A6EBD?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/istiak-jaman-anan/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ijanan" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:istiakjamananan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=700&lines=Business+Analyst;Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Open+to+Work" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ijanan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ## 👨‍💼 About Me
 
@@ -96,7 +102,7 @@ Explore my portfolio work and case studies here:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijanan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ijanan&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijanan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
@@ -128,6 +134,10 @@ I’d love to collaborate, discuss data insights, or help with your analytics ne
 | 🌐 Portfolio | https://istiakjaman.pythonanywhere.com/ |
 | 🐙 GitHub | https://github.com/ijanan |
 | 📧 Email | istiakjamananan@gmail.com |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ijanan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <i>Thanks for visiting! Feel free to check out my repositories and get in touch.</i>
